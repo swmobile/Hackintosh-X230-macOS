@@ -1,6 +1,13 @@
+#### Useful link:
+https://mighil.com/thinkpad-x230-hackintosh/
+https://www.youtube.com/watch?v=DCf1xI2mPtc
+
 #### 30 October 2019 10.15.1 Update:
 - Clover updated to r5096
 - Lilu and WhateverGreen updated to the latest
+
+
+
 
 #### 13 October 2019 Update:
 - Replaced AppleBacklightFixup.kext with WhateverGreen.kext for future-proof
